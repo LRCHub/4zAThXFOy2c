@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Tennessee Whiskey (Official Audio)",
+  "base_artist": "Chris Stapleton",
+  "createdAt": "2025-12-14T13:48:33.302289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/01_Tennessee_Whiskey_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/02_Tennessee_Whiskey_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/03_Tennessee_Whiskey_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ryan Quinn & Jennie Lena",
+      "has_synced": false,
+      "path": "select/04_Tennessee_Whiskey_Scott_Bradlee's_Postmodern_Jukebox_feat._Ryan_Quinn_&_Jennie_Lena.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey - Rock Version",
+      "artist": "Alex Melton",
+      "has_synced": false,
+      "path": "select/05_Tennessee_Whiskey_-_Rock_Version_Alex_Melton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey (Chris Stapleton)",
+      "artist": "Alex Melton",
+      "has_synced": false,
+      "path": "select/06_Tennessee_Whiskey_(Chris_Stapleton)_Alex_Melton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/07_Tennessee_Whiskey_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "A.B.",
+      "has_synced": false,
+      "path": "select/08_Tennessee_Whiskey_A.B..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "A Thousand Horses",
+      "has_synced": false,
+      "path": "select/09_Tennessee_Whiskey_A_Thousand_Horses.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/10_Tennessee_Whiskey_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/11_Tennessee_Whiskey_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "T‐Pain",
+      "has_synced": true,
+      "path": "select/12_Tennessee_Whiskey_T‐Pain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "VoicePlay",
+      "has_synced": true,
+      "path": "select/13_Tennessee_Whiskey_VoicePlay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/14_Tennessee_Whiskey_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/15_Tennessee_Whiskey_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/16_Tennessee_Whiskey_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tennessee Whiskey",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/17_Tennessee_Whiskey_George_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "has_synced": false,
+      "path": "select/pl_01_Tennessee_Whiskey_Chris_Stapleton.txt"
+    }
+  ]
+}
